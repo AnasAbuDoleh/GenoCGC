@@ -13,6 +13,11 @@ This repository provides the implementation of GenoCGC as introduced in the foll
 > Biomedical Systems and Informatics Engineering Department, Hijjawi Faculty for Engineering Technology, Yarmouk University, Irbid, Jordan  
 > 📧 Email: anas.abudoleh@yu.edu.jo
 
+## 📊 Dataset
+
+The dataset used in this study is publicly available and can be downloaded from the Hugging Face repository at:  
+👉 [https://huggingface.co/datasets/InstaDeepAI/nucleotide](https://huggingface.co/datasets/InstaDeepAI/nucleotide)
+
 ## 🛠 Requirements
 
 - Python 3.7+
@@ -30,12 +35,12 @@ pip install -r requirements.txt
 
 Run the model with:
 ```bash
-python app.py
+python genocgc.py
 ```
 
 ## 📁 Files Included
 
-- `app.py` – Main script implementing the GenoCGC model
+- `genocgc.py` – Main script implementing the GenoCGC model
 - `requirements.txt` – Python dependencies
 - `README.md` – Project documentation
 
