@@ -16,8 +16,7 @@ This repository provides the implementation of GenoCGC as introduced in the foll
 ## 📊 Dataset
 
 The dataset used in this study is publicly available and can be downloaded from the Hugging Face repository at:  
-👉 [https://huggingface.co/datasets/InstaDeepAI/nucleotide](https://huggingface.co/datasets/InstaDeepAI/nucleotide)
-
+👉 https://huggingface.co/datasets/InstaDeepAI/nucleotide_transformer_downstream_tasks_revised
 ## 🛠 Requirements
 
 - Python 3.7+
